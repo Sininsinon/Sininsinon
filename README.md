@@ -27,14 +27,10 @@
 
 ---
 
-### 🏆 Achievements
-![Trophy](https://github-profile-trophy.vercel.app/?username=Sininsinon&theme=onedark)
-
 ---
 
 ### 🌐 Featured Projects
-- [📘 Web Absensi Magang](https://github.com/Sininsinon/web-absen) – Laravel + Tailwind  
-- [📚 Komik Reader](https://github.com/Sininsinon/web-komik) – Laravel + API MangaDex  
+- [📚 Komik Reader]([https://github.com/Sininsinon/web-komik](https://aniqes.vercel.app/)) – reacjs + API MangaDex  
 
 ---
 
