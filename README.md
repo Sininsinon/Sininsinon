@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm [Nama Kamu] 🚀</h1>
+  <h1>Hi there, I'm Sinon 🚀</h1>
   <p>Tech Enthusiast | Open Source Contributor</p>
 
   <!-- Badges Kontak/Sosmed -->
